@@ -1,0 +1,5 @@
+<?
+$MESS['NB_TESTTASK_OBJECT_TABLE_CREATE'] = 'Дата и время создания';
+$MESS['NB_TESTTASK_OBJECT_TABLE_NAME'] = 'Наименование';
+$MESS['NB_TESTTASK_OBJECT_TABLE_ADDRESS'] = 'Адрес';
+$MESS['NB_TESTTASK_OBJECT_TABLE_COMMENT'] = 'Комментарий';
